@@ -1,0 +1,7 @@
+Run locally:
+  pip install -r requirements.txt
+  streamlit run app.py
+
+Deploy (Streamlit Cloud):
+  - Commit app.py, requirements.txt, and the data/ folder.
+  - Prefer safe filenames (no '&' or spaces). This package includes safe filenames.
